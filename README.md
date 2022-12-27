@@ -1,3 +1,3 @@
 # Portfolio Site
 
-https://seoro-malgm.me/
+https://www.seoro-malgm.studio/
